@@ -2,3 +2,7 @@
 __pycache__/
 .DS_Store
 secrets.toml
+venv
+.env
+.pre-commit-config.yaml
+.ruff.toml
